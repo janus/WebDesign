@@ -24,6 +24,8 @@ https://facebook.github.io/react/
 
 https://github.com/jerryscript-project/jerryscript
 
+https://github.com/Microsoft/ChakraCore
+
 #Not Related But important
 
 https://hackernoon.com/lesser-known-git-commands-151a1918a60#.do1mnzvbk
