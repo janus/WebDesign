@@ -12,11 +12,17 @@ https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20pro
 http://speakingjs.com/es5/index.html
 
 
+#Promises Everywhere
+http://dailyjs.com/2014/02/20/promises-in-detail/
+
+https://promisesaplus.com/#the_promise_resolution_procedure
 
 #Far End
 https://www.meteor.com/tutorials
 
 https://facebook.github.io/react/
+
+https://github.com/jerryscript-project/jerryscript
 
 #Not Related But important
 
